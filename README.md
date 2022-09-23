@@ -1,0 +1,1 @@
+# Predicting_the_Effects_of_News_Sentiments_on_the_Stock_Market
